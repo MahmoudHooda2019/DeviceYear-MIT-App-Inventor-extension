@@ -1,2 +1,3 @@
-# DeviceYear-MIT-App-Inventor-extension
- A simple extension to reveal the year the current device was made. 
+## YearOfDevice
+
+An App Inventor 2 extension created using Rush.
